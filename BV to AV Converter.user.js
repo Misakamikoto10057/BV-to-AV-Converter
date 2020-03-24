@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         BV to AV converter
-// @namespace    https://xsky123.com
+// @namespace    none
 // @version      3.24.20
 // @description  BV to AV converter
 // @author       Jerry Li
